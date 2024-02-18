@@ -4,7 +4,7 @@
     "languages": [
         {
             "voice_code": "af-ZA-AdriNeural",
-            "0": "Afrikaans (South Africa) - Female - Adri (Adri)"
+            "voice_name": "Afrikaans (South Africa) - Female - Adri (Adri)"
         },
         {
             "voice_code": "af-ZA-WillemNeural",
