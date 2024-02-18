@@ -3,8 +3,7 @@
  ## [Copy and paste the voice_code to the desired location for the api to work](https://rapidapi.com/yozmelar3-n3QkoVFVu8P/api/text-to-speech110) 
 
  
-  [https://icons8.com/icon/10482/voice](https://icons8.com/icon/10482/voice) 
-  ```json
+   ```json
 {
     "languages": [
         {
