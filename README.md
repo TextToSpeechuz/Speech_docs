@@ -1,6 +1,6 @@
 # Speech_docs
 
-```jsonc
+```json
   {
     "voice": string,
     "ssml": string,
