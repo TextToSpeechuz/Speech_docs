@@ -1,6 +1,10 @@
 # Speech_docs
 ![](https://graph.org/file/9ed7a5c60cdc77f9160e9.jpg)
  ## [Copy and paste the voice_code to the desired location for the api to work](https://rapidapi.com/yozmelar3-n3QkoVFVu8P/api/text-to-speech110) 
+
+ 
+  <svg width="64px" height="64px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <defs> <style>.cls-1{fill:#4285f4;}.cls-2{fill:none;}.cls-3{fill:#669df6;}</style> </defs> <title>Icon_24px_SpeechtoText_Color</title> <g data-name="Product Icons"> <g data-name="colored-32/speech"> <rect class="cls-1" x="11" y="2" width="2" height="20"></rect> <rect class="cls-2" width="24" height="24"></rect> <g> <rect id="Rectangle-path-2" data-name="Rectangle-path" class="cls-1" x="7" y="8" width="2" height="8"></rect> <rect id="Rectangle-path-3" data-name="Rectangle-path" class="cls-1" x="15" y="8" width="2" height="8"></rect> <rect id="Rectangle-path-4" data-name="Rectangle-path" class="cls-1" x="3" y="5" width="2" height="14"></rect> <rect id="Rectangle-path-5" data-name="Rectangle-path" class="cls-1" x="19" y="5" width="2" height="14"></rect> <rect id="Rectangle-path-6" data-name="Rectangle-path" class="cls-3" x="11" y="2" width="2" height="10"></rect> <rect id="Rectangle-path-7" data-name="Rectangle-path" class="cls-3" x="7" y="8" width="2" height="4"></rect> <rect id="Rectangle-path-8" data-name="Rectangle-path" class="cls-3" x="15" y="8" width="2" height="4"></rect> <rect id="Rectangle-path-9" data-name="Rectangle-path" class="cls-3" x="3" y="5" width="2" height="7"></rect> <rect id="Rectangle-path-10" data-name="Rectangle-path" class="cls-3" x="19" y="5" width="2" height="7"></rect> </g> </g> </g> </g></svg>
+
   
   ```json
 {
