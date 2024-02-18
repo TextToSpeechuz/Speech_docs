@@ -1,4 +1,6 @@
 # Speech_docs
+ ** Copy and paste the voice_code to the desired location for the api to work**
+  
   ```json
 {
     "languages": [
