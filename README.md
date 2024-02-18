@@ -1,15 +1,10 @@
 # Speech_docs
-
-```json
-  {
-    "voice": string,
-    "ssml": string,
-    "voiceStyle": string, // Optional
-    "globalSpeed": string,    // Optional
-    "audioFormat": string, // Optional
-    "audioSampleRate": string, // Optional
-    "audioKey": string, // Optional
-  },
-{" sfgh":6
+  ```json
+{
+    "code": "DK",
+    "emoji": "🇩🇰",
+    "unicode": "U+1F1E9 U+1F1F0",
+    "name": "Denmark",
+    "title": "flag for Denmark"
 }
-````
+```
